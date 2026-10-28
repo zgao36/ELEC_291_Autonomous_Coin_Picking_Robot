@@ -1,0 +1,6 @@
+# Generated build files
+*.o
+*.elf
+*.map
+*.d
+.DS_Store
