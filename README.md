@@ -2,6 +2,17 @@
 
 An embedded robot with manual and automatic modes for detecting and collecting metal coins.
 
+## 👨‍💻 Team Members
+
+| Name            | Role             |
+|-----------------|------------------|
+| Hanryck Brar    | Project Lead     |
+| Guocheng Cao    | Servo Mechanism  |
+| Gavin Gao       | Software Lead    |
+| Peter Gao       | Hardware Lead    |
+| Jamie Kang      | Debugging        |
+| Jacob Park      | Autocode System  |
+
 ## Features
 
 - Wireless joystick control through JDY-40 UART modules.
